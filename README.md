@@ -1,3 +1,3 @@
-# AD-ComponentFootprints-LIB
+# AD-Component_LIB
 
 For Altium Designer Component library.
